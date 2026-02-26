@@ -1,0 +1,93 @@
+{
+  "interlocutor_text": {
+    "cond_a": "C_AT",
+    "cond_b": "C_HT",
+    "rate_a": 60.0,
+    "rate_b": 0.0,
+    "n_a": 5,
+    "n_b": 5,
+    "p_two_prop_z": 0.038434,
+    "cohens_h": 1.7722,
+    "significant_p05": true
+  },
+  "interlocutor_json": {
+    "cond_a": "C_AJ",
+    "cond_b": "C_HJ",
+    "rate_a": 40.0,
+    "rate_b": 40.0,
+    "n_a": 5,
+    "n_b": 5,
+    "p_two_prop_z": 1.0,
+    "cohens_h": 0.0,
+    "significant_p05": false
+  },
+  "format_human": {
+    "cond_a": "C_HJ",
+    "cond_b": "C_HT",
+    "rate_a": 40.0,
+    "rate_b": 0.0,
+    "n_a": 5,
+    "n_b": 5,
+    "p_two_prop_z": 0.113846,
+    "cohens_h": 1.3694,
+    "significant_p05": false
+  },
+  "format_agent": {
+    "cond_a": "C_AJ",
+    "cond_b": "C_AT",
+    "rate_a": 40.0,
+    "rate_b": 60.0,
+    "n_a": 5,
+    "n_b": 5,
+    "p_two_prop_z": 0.527089,
+    "cohens_h": 0.4027,
+    "significant_p05": false
+  },
+  "mcnemar_interlocutor_text": {
+    "cond_a": "C_AT",
+    "cond_b": "C_HT",
+    "n_pairs": 5,
+    "n10": 3,
+    "n01": 0,
+    "n11": 0,
+    "n00": 2,
+    "p_mcnemar": 0.25,
+    "significant_p05": false
+  },
+  "mcnemar_interlocutor_json": {
+    "cond_a": "C_AJ",
+    "cond_b": "C_HJ",
+    "n_pairs": 5,
+    "n10": 0,
+    "n01": 0,
+    "n11": 2,
+    "n00": 3,
+    "p_mcnemar": 1.0,
+    "significant_p05": false
+  },
+  "mcnemar_format_human": {
+    "cond_a": "C_HJ",
+    "cond_b": "C_HT",
+    "n_pairs": 5,
+    "n10": 2,
+    "n01": 0,
+    "n11": 0,
+    "n00": 3,
+    "p_mcnemar": 0.5,
+    "significant_p05": false
+  },
+  "mcnemar_format_agent": {
+    "cond_a": "C_AJ",
+    "cond_b": "C_AT",
+    "n_pairs": 5,
+    "n10": 1,
+    "n01": 2,
+    "n11": 1,
+    "n00": 1,
+    "p_mcnemar": 1.0,
+    "significant_p05": false
+  },
+  "mixed_effects_lm": {
+    "note": "statsmodels/pandas not available: No module named 'statsmodels'"
+  }
+}
