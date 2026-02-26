@@ -1,0 +1,48 @@
+{
+  "C_HT": {
+    "rate": 0.0,
+    "rate_maj": 0.0,
+    "n": 5,
+    "leaked": 0,
+    "ci95": [
+      0,
+      43.4
+    ]
+  },
+  "C_HJ": {
+    "rate": 40.0,
+    "rate_maj": 40.0,
+    "n": 5,
+    "leaked": 2,
+    "ci95": [
+      11.8,
+      76.9
+    ]
+  },
+  "C_AT": {
+    "rate": 60.0,
+    "rate_maj": 60.0,
+    "n": 5,
+    "leaked": 3,
+    "ci95": [
+      23.1,
+      88.2
+    ]
+  },
+  "C_AJ": {
+    "rate": 40.0,
+    "rate_maj": 40.0,
+    "n": 5,
+    "leaked": 2,
+    "ci95": [
+      11.8,
+      76.9
+    ]
+  },
+  "d_I_text": 60.0,
+  "d_I_json": 0.0,
+  "d_F_human": 40.0,
+  "d_F_agent": -20.0,
+  "r_I_text": Infinity,
+  "r_I_json": 1.0
+}
