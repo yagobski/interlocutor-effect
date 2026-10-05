@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the conference paper when using this research or its companion experiments."
+title: "The Interlocutor Effect: companion experiments"
+authors:
+  - family-names: El Yagoubi
+    given-names: Faouzi
+  - family-names: Badu-Marfo
+    given-names: Godwin
+  - family-names: Al Mallah
+    given-names: Ranwa
+repository-code: "https://github.com/yagobski/interlocutor-effect"
+url: "https://github.com/yagobski/interlocutor-effect"
+preferred-citation:
+  type: conference-paper
+  title: "The Interlocutor Effect: Why LLMs Leak More Personal Data to Agents Than Humans"
+  authors:
+    - family-names: El Yagoubi
+      given-names: Faouzi
+    - family-names: Badu-Marfo
+      given-names: Godwin
+    - family-names: Al Mallah
+      given-names: Ranwa
+  collection-title: "2026 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)"
+  year: 2026
+  publisher:
+    name: IEEE
+  doi: "10.1109/EuroSPW72509.2026.00008"
+  url: "https://doi.org/10.1109/EuroSPW72509.2026.00008"
